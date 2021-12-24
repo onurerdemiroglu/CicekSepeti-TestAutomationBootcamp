@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/35347777/145617776-4df18bc8-39e9-442f-
 
 ![filtre](https://user-images.githubusercontent.com/35347777/145619880-bfdce7fa-55cc-4c27-9ebd-72e0adcc041a.PNG)
 
-**Result :** Rastgele gönderilen anlamsız kelimeler ile arama sonuçlarında eşleşen ürün bulunamadığı görülmüştür. ✅
+**Result:** Rastgele gönderilen anlamsız kelimeler ile arama sonuçlarında eşleşen ürün bulunamadığı görülmüştür. ✅
 
 https://user-images.githubusercontent.com/35347777/145617792-d21e2f1e-5512-427d-b951-a7e0830a25f1.mp4
 
